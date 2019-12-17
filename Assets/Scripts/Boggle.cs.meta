@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c7f6b7004b2a9d74f82c775638ab5c1f
+timeCreated: 1576545567
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selectedTile: {instanceID: 0}
+  - statusLabel: {instanceID: 0}
+  - thumb: {fileID: 180208, guid: ab4d3e87f161f42b19af783e9c0d6473, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
