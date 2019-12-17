@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1F80DB2C-1E2B-A3D5-0CF0-2E2905F0C3A5}</ProjectGuid>
+    <ProjectGuid>{288EC2DB-7419-C35A-A148-B953119C288D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,7 +60,7 @@
      <None Include="Assets\StreamingAssets\words.txt" />
      <None Include="Assets\StreamingAssets\commonWords.txt" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/harrivin/Downloads/Boggle Game/Boggle/Boggle-Game/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/harrivin/Downloads/Boggle Game/Boggle/Boggle-Game/Boggle_Game/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions.Editor">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
